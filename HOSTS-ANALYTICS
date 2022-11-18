@@ -20,3 +20,9 @@
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
 
+#Analytics - FreshMarketer
+0.0.0.0 freshmarketer.com
+
+#Analytics - Luckyorange
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
