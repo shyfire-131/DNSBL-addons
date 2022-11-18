@@ -1,0 +1,29 @@
+#=====================================
+# Title: Hosts contributed by +shyfire131
+# https://shyfire131.net
+
+# Ads - Google Ads
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 googleadservices.com
+
+# Ads - Media.net
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+0.0.0.0 adservetx.media.net
+
+# Ads - Fastclick
+0.0.0.0 fastclick.com
+0.0.0.0 fastclick.net
+
+# Ads - Amazon
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+0.0.0.0 assoc-amazon.com
